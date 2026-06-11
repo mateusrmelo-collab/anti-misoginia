@@ -18,6 +18,10 @@ body{
     z-index:1001;
 }
 
+a{
+    color: rgb(74, 88, 219);
+}
+
 .logo img{
     width:120px;
 }
@@ -709,6 +713,10 @@ body.dark .popup{
 
 body.dark .box{
     background:#1a1c20;
+}
+
+body.dark a{
+    color: turquoise;
 }
 
 @media(max-width:1000px){
