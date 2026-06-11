@@ -620,10 +620,6 @@ footer p{
     width:10px;
 }
 
-::-webkit-scrollbar-track{
-    background:#0a0000;
-}
-
 ::-webkit-scrollbar-thumb{
     background:#ff2b2b;
 
